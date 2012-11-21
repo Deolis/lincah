@@ -1,4 +1,4 @@
 lincah
 ======
 
-Lincah is an information system for branch company
+Lincah is an information system for branched company
